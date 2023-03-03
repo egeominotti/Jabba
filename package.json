@@ -5,6 +5,8 @@
     "hardhat": "^2.12.7"
   },
   "dependencies": {
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "node-mexc-api": "^0.0.8",
+    "web3": "^1.8.2"
   }
 }
